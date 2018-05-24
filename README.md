@@ -1,1 +1,1 @@
-# Demo-front-react-01
+# A honest-hearted personal project for learning peculiarities of the React library.
